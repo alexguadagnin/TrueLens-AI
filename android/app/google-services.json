@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641394422168",
+    "project_id": "true-lens-74064",
+    "storage_bucket": "true-lens-74064.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641394422168:android:997e1a4dd4eb0af0f4bbed",
+        "android_client_info": {
+          "package_name": "com.example.true_lens_ai_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJzCma9iT-XebU8ix2JbpY7P9LC9_extc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
